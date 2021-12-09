@@ -1,0 +1,31 @@
+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
+
+wallet pubkey : B72r3nLDBeEjqvjNtdXGXGscGaMFj7VQas2D5EzcZPer
+candy machine with publickey: GaXkcyrsCqrxomNmEj9RMr8LHq9t3yfUF22n2mUiszSJ
+candy machine pubkey: 4rEryV3Hk266zJ3c7FhGjyE393BtLEsFVSZ2gNaz6hS4
+startDate timestamp: 1638140400 (28 Nov 2021 23:00:00 GMT)
+
+{
+"program":{
+  "uuid":"GaXkcy",
+  "config":"GaXkcyrsCqrxomNmEj9RMr8LHq9t3yfUF22n2mUiszSJ"},
+  "items":{
+    "gatsbyclub_goldenpass":{
+      "link":"https://arweave.net/E0e-V19YC6uNCV9Nxg00T6MEjmSc1sbf7A64zQ2Rs5Q",
+      "imageLink":"https://arweave.net/L5gdKzzd-mb1h1LeJbdLWe_0gMFLkZIAwOzepw3ITVQ?ext=png",
+      "name":"Gatsby Club Goldenpass #001",
+      "onChain":true
+      }
+  },
+  "env":"devnet",
+  "cacheName":"temp",
+  "authority":"B72r3nLDBeEjqvjNtdXGXGscGaMFj7VQas2D5EzcZPer"
+}
+
+
+-------------- GCC SPL TOKEN --------------
+
+pubkey : 8QXti831axh4a72fv483n6kHfr5yEM3XV6TVZHQcdiiG
+config : FuMimM2Je27aGwzeacuGfA8VRXkhiE1Bcx6szRHxYWzM
+candy machine pubkey : 5wC1SsucdMPGfEx8JKrLj6dMdZJeJy3jSaJeMryy3dL8
+startdate : 1638994320

@@ -1,0 +1,38 @@
+{
+  "name": "Gatsby Club Goldenpass #001",
+  "symbol": "",
+  "description": "The Gatsby Club Goldenpass needed to open the doors",
+  "seller_fee_basis_points": 500,
+  "image": "image.gif",
+  "animation_url": "https://static.wixstatic.com/media/de456f_b2c331601dbe4aebbd7c55ade343f0a3~mv2.gif",
+  "external_url": "https://www.gatsbyclub.net/",
+  "attributes": [
+    {
+      "trait_type": "pass",
+      "value": "gold"
+    },
+    {
+      "trait_type": "round",
+      "value": "1"
+    }
+  ],
+  "collection": {
+    "name": "Gatsby Club Goldenpass Pre-sale",
+    "family": "Gatsby Club Goldenpass Pre-sale"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3oyUtaQ4UAhUAmJbmzqFoMruFEtPQ7M1BSUmMDCPq45V",
+        "share": 100
+      }
+    ]
+  }
+}

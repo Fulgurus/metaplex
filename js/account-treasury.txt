@@ -1,0 +1,9 @@
+Creating account ABHvzsMRqjd3kpB7VhgLzyrUi89jU49kGfag8LGnXGjU
+
+Signature: 3K7JarT9EfZnv2c5vFWuPGNyE8cT4Z4zmJmKdoeEVJwjJeQFMtdoKJXpK89rnF3esTYHHLfeSoUu3PvcaJfkbjCh
+
+Minting 1000 tokens
+  Token: ZZbM662YrMJaKvbdCHTxSrb2WNQDAxJi2p4tdT5HDP6
+  Recipient: ABHvzsMRqjd3kpB7VhgLzyrUi89jU49kGfag8LGnXGjU
+
+Signature: 2KV1oHTLW2xpU7aV2ww26UFWnutNEAre2T91ofRjK4A4sDfzV35VNwo3kAcsg5msPMhWQoRf8hiRTEpXmxXVTvQ9
